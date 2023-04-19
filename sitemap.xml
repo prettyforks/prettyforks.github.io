@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://prettyforks.github.io/page/about-prettyforks/</loc>
+    <lastmod>2023-04-18T13:18:45+01:00</lastmod>
+  </url><url>
+    <loc>https://prettyforks.github.io/page/</loc>
+    <lastmod>2023-04-18T13:18:45+01:00</lastmod>
+  </url><url>
+    <loc>https://prettyforks.github.io/</loc>
+    <lastmod>2023-04-18T13:18:45+01:00</lastmod>
+  </url><url>
+    <loc>https://prettyforks.github.io/archive/</loc>
+  </url><url>
+    <loc>https://prettyforks.github.io/author/</loc>
+  </url><url>
+    <loc>https://prettyforks.github.io/categories/</loc>
+  </url><url>
+    <loc>https://prettyforks.github.io/series/</loc>
+  </url><url>
+    <loc>https://prettyforks.github.io/tags/</loc>
+  </url>
+</urlset>
